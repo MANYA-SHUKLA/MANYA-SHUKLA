@@ -11,7 +11,7 @@
 - 💬 Ask me about **DSA basics, core CS concepts, and frontend technologies and backend database technologies**
 - 📫 How to reach me **shuklamanya99@gmail.com or work.shuklamanya@gmail.com**
 - 👨‍💻 All of my projects are available at ** https://github.com/MANYA-SHUKLA/PORTFOLIO**
-- 📄 Know about my experiences **https://drive.google.com/file/d/15uK65MX0OIUMUkMaJXpfbIz0Q7myqIdU/view?usp=sharing**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/15uK65MX0OIUMUkMaJXpfbIz0Q7myqIdU/view?usp=sharing](https://docs.google.com/document/d/1lTCFnN52DzzxgNiTpGpxFPbuqxaIBu6WkuEr2IVHQuY/edit?usp=sharing)**
 - ⚡ Fun fact ** I turn coffee into clean UI code ☕✨**
 
 <div> <a href="https://www.linkedin.com/in/manya-shukla99" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
