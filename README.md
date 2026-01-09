@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MANYA-SHUKLA&theme=" alt="MANYA-SHUKLA" /></a> </p>
 
-- 🔭 I’m currently working on [E-commerce UI – Manya_Closet](https://manya-closet.vercel.app/)
+- 🔭 I’m currently working on NAUKRI JOB PORTAL WITH 7 PANELS
 - 👯 I’m looking to collaborate on **Open Source React Projects**
 - 🌱 I’m currently learning ** I’m currently learning Backend development with Node.js and Express, Data Structures & Algorithms in C++, and diving into Machine Learning and AI**
 - 💬 Ask me about **DSA basics, core CS concepts, and frontend technologies (React, Next.js, Tailwind CSS)**
