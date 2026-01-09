@@ -1,14 +1,14 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm MANYA SHUKLA</h1>
-<h3 align="center">Frontend Developer | Tailwind CSS | JavaScript | Typescript | React | Next.js </h3>
+<h1 align="center">Hey 👋, I'm MANYA SHUKLA</h1>
+<h3 align="center">Full stack MERN Developer | Typescript | Next.js | AI/ML </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MANYA-SHUKLA&label=Profile%20views&color=0e75b6&style=flat" alt="MANYA-SHUKLA" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MANYA-SHUKLA&theme=" alt="MANYA-SHUKLA" /></a> </p>
 
 - 🔭 I’m currently working on NAUKRI JOB PORTAL WITH 7 PANELS
 - 👯 I’m looking to collaborate on **Open Source React Projects**
-- 🌱 I’m currently learning ** I’m currently learning Backend development with Node.js and Express, Data Structures & Algorithms in C++, and diving into Machine Learning and AI**
-- 💬 Ask me about **DSA basics, core CS concepts, and frontend technologies (React, Next.js, Tailwind CSS)**
+- 🌱 I’m currently learning ** I’m currently learning Data Structures & Algorithms in C++, and diving into Machine Learning and AI**
+- 💬 Ask me about **DSA basics, core CS concepts, and frontend technologies and backend database technologies**
 - 📫 How to reach me **shuklamanya99@gmail.com or work.shuklamanya@gmail.com**
 - 👨‍💻 All of my projects are available at ** https://github.com/MANYA-SHUKLA/PORTFOLIO**
 - 📄 Know about my experiences **https://drive.google.com/file/d/15uK65MX0OIUMUkMaJXpfbIz0Q7myqIdU/view?usp=sharing**
